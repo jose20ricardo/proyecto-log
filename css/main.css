@@ -1,0 +1,22 @@
+body{
+    background-image: url("https://www.24spoilers.com/wp-content/uploads/2017/12/Disney-logo.jpg")
+}
+.EP{
+       width: 214px;
+       margin-left: auto;
+       margin-right: auto;
+       padding:10px;
+       background-image: url(https://en.wikipedia.org/wiki/Tokyo_Disneyland#/media/File:TDL_Cinderella_Castle_New_Color.jpg);
+       
+}
+h2{
+    color: cornflowerblue;
+    text-underline-position: below ; 
+}
+.botton{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/f/fe/Mickey_Mouse_head_and_ears.svg);
+    padding: 36px;
+
+}
+
+
