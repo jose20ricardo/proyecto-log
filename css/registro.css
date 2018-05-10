@@ -1,0 +1,23 @@
+body{
+    background-image: url("https://vignette.wikia.nocookie.net/logopedia/images/3/33/Disney_parks_ad.png/revision/latest?cb=20161008011639")
+    
+}
+.contenedor{
+    background-color: rgba(173, 209, 14, 0.548);
+    width: 173px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    color: chocolate;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.datos{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: silver;
+    width: 214px;
+       padding:10px;
+}
+.botton{
+    color: steelblue;
+}

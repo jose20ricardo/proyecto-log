@@ -1,0 +1,30 @@
+body{
+    background-image: url('https://vignette.wikia.nocookie.net/reinoanimalia/images/4/4b/Bosque_de_coniferas_fondo.png/revision/latest?cb=20150316225911&path-prefix=es');
+}
+.imagen{
+    width: 156px;
+    height: 160px; 
+   float: left;
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    color: red;
+    text-align: initial;
+}
+.left{
+   border: 1px solid red;
+       width: 300px;
+       float: left;
+       padding: 1px 120;
+ 
+       
+}
+.new{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    border: 1px solid peru;
+    height: auto;
+    width: auto;
+    float: left;
+    padding:1px 5;
+    color: white 
+}
